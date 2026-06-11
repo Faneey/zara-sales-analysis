@@ -16,7 +16,7 @@ This project analyzes Zara sales data using Microsoft Excel to uncover sales tre
 - Price vs salse Volume relationship
 
 ## Dashboard Preview
-![Dashboard](dashboard-overview.png)
+![Dashboard](dashboar-overview.png)
 
 ## Insights
 - Products under promotion contributed significantly to sales volume.
